@@ -42,7 +42,7 @@ app.title = 'Airport Crowd Analysis'
 app.layout = html.Div(
     [
 
-        # simple narbar 
+        # simple navbar 
         dbc.NavbarSimple(
             children=[
                 dbc.NavItem(dbc.NavLink("Home", href="#")),
