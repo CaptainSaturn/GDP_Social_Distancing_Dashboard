@@ -15,11 +15,11 @@ The dasboard has three sections:
 
 2. **Graph Section:** All the graphs available can be seen here. The graphs are:
 
-  * Total person mask status
-  * Total risk profile
-  * Total persons pose status
-  * Total person count
-  * Social distancing proportions
-  * Proportions boxplots
+    * Total person mask status
+    * Total risk profile
+    * Total persons pose status
+    * Total person count
+    * Social distancing proportions
+    * Proportions boxplots
 
 3. **Data and Results:** Here lies the frame-level data and individual person-level data. All the data can be easily exported by the click of a button.
