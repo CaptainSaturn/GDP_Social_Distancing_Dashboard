@@ -3,7 +3,7 @@ Part of [Airport Integrated Crowd Monitoring and Social Distancing Analysis Plat
 
 
 ## Dashboard Application
-  *Requirements file can be accessed from the main repository file.
+  * Requirements file can be accessed from the main repository file.
 
 
 The Dashboard provides an interactive visual tool to assess the social distancing situation in a given scene. The user can switch to different kinds of plots from the type of plot menu and to multiple viewpoints from the area dropdown menu.
