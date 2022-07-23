@@ -25,3 +25,7 @@ The dasboard has three sections:
 3. **Data and Results:** Here lies the frame-level data and individual person-level data. All the data can be easily exported by the click of a button.
 
 ![Dashboard_1](https://user-images.githubusercontent.com/16809361/180602522-162b9f81-e55d-4f47-a32e-b5ff231d4313.png)
+
+![Dashboard_2](https://user-images.githubusercontent.com/16809361/180602524-ad51d239-daed-44ec-b2b4-b536a125d46f.png)
+
+![Dashboard_3](https://user-images.githubusercontent.com/16809361/180602527-41fc3db6-f26a-4ebc-a057-969e3c72b315.png)
