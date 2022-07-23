@@ -23,3 +23,5 @@ The dasboard has three sections:
     * Proportions boxplots
 
 3. **Data and Results:** Here lies the frame-level data and individual person-level data. All the data can be easily exported by the click of a button.
+
+![Dashboard_1](https://user-images.githubusercontent.com/16809361/180602522-162b9f81-e55d-4f47-a32e-b5ff231d4313.png)
