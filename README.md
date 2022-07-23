@@ -1,10 +1,13 @@
 # GDP_Social_Distancing_Dashboard
 Part of [Airport Integrated Crowd Monitoring and Social Distancing Analysis Platform](https://github.com/biantongfei/GDP_group5)
 
+
 ## Dashboard Application
 ..*Requirements file can be accessed from the main repository file.
 
-The Dashboard provides an interactive ___. The user can switch to different kinds of plots from the type of plot menu and to multiple viewpoints from the area dropdown menu.
+
+The Dashboard provides an interactive visual tool to assess the social distancing situation in a given scene. The user can switch to different kinds of plots from the type of plot menu and to multiple viewpoints from the area dropdown menu.
+
 
 The dasboard has three sections:
 1.Viewport Section
